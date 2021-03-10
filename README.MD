@@ -4,12 +4,6 @@ This littel Script is able to go through the Amazon Credit Card Bill PDF and exp
 
 Only works with the german version
 
-## Requirements
-```bash
-pip install PyMuPDF
-````
-
-
 ## Usage
 
 Edit the path and the pattern line to match your case
